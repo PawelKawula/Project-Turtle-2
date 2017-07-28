@@ -43,3 +43,6 @@ nav ul li{
 container_12{
     border: 1px solid black;
 }
+.current{
+    font-weight: bold;
+}
