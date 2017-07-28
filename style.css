@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+figure,article,aside,footer,header,nav,progress,section{
+    display: block;
+    margin: 10px;
+}
+figcaption{
+    display: none;
+}
+div{
+    margin: 10px;
+}
+#header{
+    background-image: linear-gradient(blue,white);
+    width: 100%;
+    height: 20%;
+    background-size: contain;
+    background-position: -38px 0;
+}
+#menu{
+    position: fixed;
+    top: 0;
+    height: 50px;
+    line-height: 50px;
+    border: 1px solid black;
+}
+#menu ul{
+}
+nav ul li{
+    display: inline-block;
+    width: 110px;
+    height: 100%;
+    overflow: hidden;
+    background-color: pink;
+}
+#menu ul li a{
+    display: block;
+    width: 100%;
+    height: 100%;
+    background-color: grey;
+    text-align: center;
+    vertical-align: center;
+}
+container_12{
+    border: 1px solid black;
+}
