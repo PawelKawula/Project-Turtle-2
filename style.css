@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:300,400,700&subset=latin-ext');
-@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700&subset=latin-ext');
 *{
     margin: 0;
     padding: 0;
@@ -7,7 +6,6 @@
 }
 figure,article,aside,footer,header,nav,progress,section{
     display: block;
-    margin: 10px;
 }
 figcaption{
     display: none;
