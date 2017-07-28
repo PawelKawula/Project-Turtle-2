@@ -26,8 +26,6 @@ div{
     line-height: 50px;
     border: 1px solid black;
 }
-#menu ul{
-}
 nav ul li{
     display: inline-block;
     width: 110px;
@@ -41,7 +39,6 @@ nav ul li{
     height: 100%;
     background-color: grey;
     text-align: center;
-    vertical-align: center;
 }
 container_12{
     border: 1px solid black;
