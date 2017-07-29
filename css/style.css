@@ -47,3 +47,6 @@ container_12{
 .current{
     font-weight: bold;
 };
+#starter{
+    background-image: url(../images/background_sa.jpg);
+}
